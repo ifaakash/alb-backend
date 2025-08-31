@@ -1,5 +1,6 @@
 # How to run in the local system
-uvicorn app:app --reload --port 5000
+
+```uvicorn app:app --reload --port 5000```
 
 ## Common Endpoints for the application
 
